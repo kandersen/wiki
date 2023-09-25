@@ -18,7 +18,7 @@ of objects.
 
 Leveraging the JVM provides a number of benefits for your language:
 
-* **Porability** is a non-issue because the JVM runs on most hardware.
+* **Portability** is a non-issue because the JVM runs on most hardware.
 
 * **Interoperability with Java** is painless and provides you with the wealth of 
 libraries and frameworks already in existence.
